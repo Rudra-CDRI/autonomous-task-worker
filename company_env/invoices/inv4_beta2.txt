@@ -1,0 +1,5 @@
+BETA SERVICES
+-------------
+Invoice 56-B
+Amount: $600
+Due Date: 2026-12-01

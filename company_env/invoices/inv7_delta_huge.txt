@@ -1,0 +1,10 @@
+======================
+DELTA SYSTEMS INVOICE
+======================
+Invoice ID: DEL-999
+
+Enterprise Server Installation
+Amount Due: 150000.00
+
+Deadline: 2026-11-20
+======================

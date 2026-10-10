@@ -1,0 +1,7 @@
+Joe's Diner
+Receipt #4042
+Date: 2026-10-01
+
+Employee: Alice Smith
+Category: Meals
+Total: $25.50

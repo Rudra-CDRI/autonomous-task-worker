@@ -1,0 +1,6 @@
+COMPANY POLICY - ACCOUNTS PAYABLE
+---------------------------------
+1. High-Value Invoices: Any invoice with an amount above 100,000 requires human approval before entry into the system.
+2. Vendor Names: Vendor names entered into the system must match our approved vendor list exactly.
+3. Date Formats: All due dates must be entered in the system strictly as YYYY-MM-DD.
+4. Missing Information: If a required field (Vendor, Amount, Due Date) is missing from the document, ask the requester. Never guess.

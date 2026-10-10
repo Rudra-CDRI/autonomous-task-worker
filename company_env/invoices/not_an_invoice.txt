@@ -1,0 +1,10 @@
+From: Sarah <sarah@example.com>
+To: John <john@example.com>
+Subject: Lunch tomorrow?
+
+Hey John,
+Just checking if we're still on for lunch tomorrow at 1pm? 
+Let me know if you need to reschedule.
+
+Thanks,
+Sarah

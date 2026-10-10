@@ -1,0 +1,7 @@
+City Cab Co.
+Driver: Mike
+Date: 2026-10-02
+
+Employee: Bob Jones
+Fare: $45.00
+Category: Travel

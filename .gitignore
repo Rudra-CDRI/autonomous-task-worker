@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+*$py.class
+company_env/records.json

@@ -1,0 +1,7 @@
+ACME CORPORATION LTD - INVOICE
+==============================
+Inv Number: 1002
+For: Consulting hours
+
+Total: 2000.00 USD
+Date Due: 10 Nov 2026

@@ -1,0 +1,7 @@
+Office Supplies Depot
+Date: 2026-10-03
+
+Employee: Alice Smith
+Items: Printer ink, paper
+Amount: $120.00
+Category: Office

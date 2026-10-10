@@ -1,0 +1,7 @@
+INVOICE
+Vendor: Acme Corp
+Invoice #: 1001
+
+Description: Software Licenses
+Amount Due: 1500.00
+Please pay by: 05 Nov 2026
